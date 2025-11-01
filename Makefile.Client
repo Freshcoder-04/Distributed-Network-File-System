@@ -1,0 +1,2 @@
+main:
+	gcc -g -pthread client.c -o Client
